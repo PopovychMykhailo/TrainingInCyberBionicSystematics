@@ -1,0 +1,16 @@
+﻿<Window x:Class="Homework_task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_task3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <Grid>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="20,200,0,0" FontSize="24" VerticalAlignment="Top" Height="50" Width="100" Click="StartButton_Click"/>
+        <Button Content="Stop" HorizontalAlignment="Left" Margin="150,200,0,0" FontSize="24" VerticalAlignment="Top" Height="50" Width="100" Click="StopButton_Click"/>
+        <Button Content="Reset" HorizontalAlignment="Left" Margin="280,200,0,0" FontSize="24" VerticalAlignment="Top" Height="50" Width="100" Click="ResetButton_Click"/>
+        <Label x:Name="___Без_имени_" HorizontalAlignment="Left" Margin="20,10,0,0" FontSize="14" VerticalAlignment="Top" Height="30" Width="74" Content="Time"/>
+        <TextBlock Name="textBlock_time" HorizontalAlignment="Center" Margin="0,40,0,0" Text="00:00:00.000" FontSize="60" TextWrapping="Wrap" VerticalAlignment="Top" MouseMove="Grid_MouseMove" Height="100" Width="360"/>
+    </Grid>
+</Window>

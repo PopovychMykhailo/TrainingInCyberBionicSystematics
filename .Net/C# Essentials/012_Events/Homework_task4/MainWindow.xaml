@@ -1,0 +1,16 @@
+﻿<Window x:Class="Homework_task4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_task4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="500">
+    <Grid>
+        <TextBox x:Name="TextBox_MathExpression" HorizontalAlignment="Left" Margin="50,100,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170" FontSize="36" Height="50"/>
+        <TextBlock x:Name="SignResult" HorizontalAlignment="Center" Margin="0,100,0,0" Text="=" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36"/>
+        <TextBlock x:Name="TextBlock_Result" HorizontalAlignment="Left" Margin="280,100,0,0" Text="0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="36" Width="150" Height="50"/>
+        <Button x:Name="Button_Calculate" Content="Calculate" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" FontSize="36" Width="200" Click="Button_Calculate_Click"/>
+
+    </Grid>
+</Window>

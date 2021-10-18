@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_006_CustomCulture</RootNamespace>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Reference Include="sysglobl">
+      <HintPath>C:\Windows\assembly\GAC_MSIL\sysglobl\2.0.0.0__b03f5f7f11d50a3a\sysglobl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

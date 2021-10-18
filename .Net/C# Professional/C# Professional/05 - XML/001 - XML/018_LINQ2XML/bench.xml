@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bench>
+  <toolbox>
+    <handtool>Hammer</handtool>
+    <handtool>Rasp</handtool>
+  </toolbox>
+  <toolbox>
+    <handtool>Saw</handtool>
+    <powertool>Nailgun</powertool>
+  </toolbox>
+  <toolbox>
+    <handtool>Saw</handtool>
+    <powertool>Nailgun</powertool>
+  </toolbox>
+  <toolbox>
+    <handtool>Saw</handtool>
+    <powertool>Nailgun</powertool>
+  </toolbox>
+  <!--Be careful with the nailgun-->
+</bench>
