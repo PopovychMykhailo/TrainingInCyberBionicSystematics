@@ -1,0 +1,14 @@
+﻿<Window x:Class="Homework_task4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_task4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TextField" HorizontalAlignment="Center" Margin="0,10,0,0" Text="Write anything..." TextWrapping="Wrap" VerticalAlignment="Top" Width="780" Height="300" AutomationProperties.Name="TextField" FontSize="20"/>
+        <Button x:Name="SaveButton" Content="Save" HorizontalAlignment="Center" Margin="0,350,0,0" VerticalAlignment="Top" Height="50" Width="150" IsDefault="True" FontSize="36" AutomationProperties.Name="SaveButton" Click="SaveButton_Click"/>
+
+    </Grid>
+</Window>
