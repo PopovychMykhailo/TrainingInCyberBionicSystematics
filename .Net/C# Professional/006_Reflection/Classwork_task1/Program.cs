@@ -68,7 +68,6 @@ namespace Classwork_task1
 
                 Console.WriteLine();
             }
-
         }
 
 
