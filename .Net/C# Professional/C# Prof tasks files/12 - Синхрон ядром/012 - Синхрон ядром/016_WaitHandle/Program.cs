@@ -15,6 +15,7 @@ namespace WaitHandleNs
         static void Main()
         {
             Console.OutputEncoding = Encoding.Unicode;
+
             // Помещение двух задач в пул потоков. 
             ThreadPool.QueueUserWorkItem(Task1, events[0]);
             ThreadPool.QueueUserWorkItem(Task2, events[1]);
@@ -39,7 +40,7 @@ namespace WaitHandleNs
         {
             for (int i = 0; i < 5; i++)
             {
-                Console.Write("1 ");
+                Console.Write("! ");
                 Thread.Sleep(500);
             }
             (state as AutoResetEvent).Set();
@@ -49,7 +50,7 @@ namespace WaitHandleNs
         {
             for (int i = 0; i < 10; i++)
             {
-                Console.Write("2 ");
+                Console.Write("- ");
                 Thread.Sleep(500);
             }
             (state as AutoResetEvent).Set();

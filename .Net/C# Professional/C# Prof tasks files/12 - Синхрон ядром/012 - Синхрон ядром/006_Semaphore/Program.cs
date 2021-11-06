@@ -36,7 +36,7 @@ namespace MyNamespace
                3. [имя моста - Дворцовый мост]
                   Имя семафора в операционной системе.
             */
-            pool = new Semaphore(2, 4, "MySemafore");
+            pool = new Semaphore(1, 4, "MySemafore");
 
             //pool.Release(2); // Сброс семафора - разрешить 4.
 

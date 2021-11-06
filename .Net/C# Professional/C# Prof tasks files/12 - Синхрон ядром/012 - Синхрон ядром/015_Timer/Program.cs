@@ -15,12 +15,13 @@ namespace TimerSample
         {
             Console.WriteLine("Вызов метода {0}.", ++counter);
 
-            if (counter == maxCount)
+            if (counter >= maxCount)
             {
                 counter = 0;                     // Обнуление счетчика.
                 (state as AutoResetEvent).Set(); // Посылает сигнал первичному потоку - [продолжиться].
             }
         }
+
         static void Main()
         {
             Console.OutputEncoding = Encoding.Unicode;

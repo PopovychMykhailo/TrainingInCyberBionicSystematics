@@ -12,7 +12,7 @@ namespace SimpleLock
         static void Main()
         {
             Console.OutputEncoding = Encoding.Unicode;
-            Thread[] threads = { new Thread(Function), new Thread(Function) };
+            Thread[] threads = { new Thread(Function), new Thread(Function), new Thread(Function), new Thread(Function) };
 
             for (int i = 0; i < threads.Length; i++)
             {
@@ -21,17 +21,17 @@ namespace SimpleLock
             }
 
             // Delay.
-           Thread.Sleep(1000);
+            Thread.Sleep(1000);
         }
 
         static void Function()
         {
 
             block.Enter();
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Поток {0} выполнил операцию.", Thread.CurrentThread.Name);
-            } 
+            }
             block.Leave();
 
 
@@ -46,7 +46,8 @@ namespace SimpleLock
         public void Enter()
         {
             if (Interlocked.Increment(ref count) == 1)
-                return; 
+                return;
+            // else if (count > 1)
 
             auto.WaitOne();
         }

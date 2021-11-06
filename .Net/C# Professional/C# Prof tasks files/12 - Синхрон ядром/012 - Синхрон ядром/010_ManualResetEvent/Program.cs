@@ -22,7 +22,18 @@ namespace ManualResetEventNs
 
             Console.WriteLine("Нажмите на любую клавишу для перевода ManualResetEvent в сигнальное состояние.\n");
             Console.ReadKey();
+            Console.WriteLine();
             manual.Set(); // Посылает сигнал всем потокам.
+            manual.Reset();
+
+            new Thread(Function1).Start();
+            new Thread(Function2).Start();
+
+            Console.WriteLine("Нажмите на любую клавишу для перевода ManualResetEvent в сигнальное состояние.\n");
+            Console.ReadKey();
+            Console.WriteLine();
+            manual.Set(); // Посылает сигнал всем потокам.
+            //manual.Reset();
 
             // Delay
             Console.ReadKey();
