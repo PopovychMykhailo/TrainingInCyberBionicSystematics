@@ -12,6 +12,7 @@ namespace TPL
             {
                 Thread.Sleep(25);
                 Console.Write(arg as string);
+                arg = i.ToString();
             }
         }
 
