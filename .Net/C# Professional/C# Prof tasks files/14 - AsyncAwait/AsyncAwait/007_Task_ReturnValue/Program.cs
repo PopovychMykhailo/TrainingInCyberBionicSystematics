@@ -36,6 +36,7 @@ namespace AsyncAwait
             Console.WriteLine("Первичный поток завершил работу. ThreadID {0}",
                 Thread.CurrentThread.ManagedThreadId);
 
+            //Console.WriteLine();
             // Delay
             Console.ReadKey();
         }

@@ -11,7 +11,7 @@ namespace TimerSample
         static int maxCount = 10;
         static int counter;
 
-        static void Function(Object state)
+        void Function(Object state)
         {
             Console.WriteLine("Вызов метода {0}.", ++counter);
 
@@ -22,7 +22,7 @@ namespace TimerSample
             }
         }
 
-        static void Main()
+        void Main()
         {
             Console.OutputEncoding = Encoding.Unicode;
             AutoResetEvent auto = new AutoResetEvent(false);

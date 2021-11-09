@@ -25,7 +25,7 @@ namespace Classwork_task1
                 Monitor.Enter((object)block); // boxing создает новый объект (50! объектов).
 
                 // Выполнение некоторой работы потоком ...
-                Console.WriteLine(++counter);
+                Console.WriteLine($"{++counter} ");
 
                 // Попытка снять блокировку с объекта который не является объектом блокировки.
                 Monitor.Exit((object)block); // boxing создает абсолютно новый объект.

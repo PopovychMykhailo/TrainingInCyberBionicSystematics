@@ -1,0 +1,15 @@
+﻿<Window x:Class="Homework_task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_task2"
+        mc:Ignorable="d"
+        Title="Homework" Height="250" Width="500">
+    <Grid>
+        <TextBox x:Name="MainTextBox" HorizontalAlignment="Center" Margin="0,10,0,0" Text="Click &quot;Connect DB&quot; to continue" TextWrapping="Wrap" VerticalAlignment="Top" Width="472" FontSize="24" TextAlignment="Center" Height="76"/>
+        <Button x:Name="ConnectDB_Button" Content="Connect DB" HorizontalAlignment="Left" Margin="62,114,0,0" VerticalAlignment="Top" FontSize="24" Width="149" Click="ConnectDB_Button_Click"/>
+        <Button x:Name="DisconnectDB_Button" Content="Disconnect DB" HorizontalAlignment="Left" Margin="277,114,0,0" VerticalAlignment="Top" FontSize="24" Width="180" Click="DisconnectDB_Button_Click"/>
+
+    </Grid>
+</Window>
