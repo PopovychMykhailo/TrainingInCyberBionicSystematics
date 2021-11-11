@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8294e99c-480c-4531-8155-029d7784dfa5": {
+      "ProjectGuid": "8294e99c-480c-4531-8155-029d7784dfa5",
+      "DisplayName": "002_UI_SyncContext",
+      "ColorIndex": 0
+    },
+    "a80be2e0-e457-4fed-8b4a-139cb3901d80": {
+      "ProjectGuid": "a80be2e0-e457-4fed-8b4a-139cb3901d80",
+      "DisplayName": "003_TaskSchedulerAwait",
+      "ColorIndex": 1
+    },
+    "7a9a31a3-4cb3-4d0e-bc34-a815e2dc8176": {
+      "ProjectGuid": "7a9a31a3-4cb3-4d0e-bc34-a815e2dc8176",
+      "DisplayName": "004_AsyncVoid",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

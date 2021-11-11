@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdxWAecmG2Fye0p1o1ItWaHySNDF/DUzPmyBCgZJW1nz2Wlg4OQlrCnbJV6XtzLfQ6rAqO0EGRX3PKpuIXRB/w==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\08 - Сериализация\\001 - Serialization\\006_JSON\\006_JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

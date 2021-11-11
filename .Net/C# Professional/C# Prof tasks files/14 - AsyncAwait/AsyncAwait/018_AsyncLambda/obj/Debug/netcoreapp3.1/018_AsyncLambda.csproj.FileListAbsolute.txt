@@ -1,0 +1,13 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\bin\Debug\netcoreapp3.1\018_AsyncLambda.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\bin\Debug\netcoreapp3.1\018_AsyncLambda.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\bin\Debug\netcoreapp3.1\018_AsyncLambda.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\bin\Debug\netcoreapp3.1\018_AsyncLambda.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\bin\Debug\netcoreapp3.1\018_AsyncLambda.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\bin\Debug\netcoreapp3.1\018_AsyncLambda.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\obj\Debug\netcoreapp3.1\018_AsyncLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\obj\Debug\netcoreapp3.1\018_AsyncLambda.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\obj\Debug\netcoreapp3.1\018_AsyncLambda.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\obj\Debug\netcoreapp3.1\018_AsyncLambda.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\obj\Debug\netcoreapp3.1\018_AsyncLambda.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\obj\Debug\netcoreapp3.1\018_AsyncLambda.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\018_AsyncLambda\obj\Debug\netcoreapp3.1\018_AsyncLambda.genruntimeconfig.cache

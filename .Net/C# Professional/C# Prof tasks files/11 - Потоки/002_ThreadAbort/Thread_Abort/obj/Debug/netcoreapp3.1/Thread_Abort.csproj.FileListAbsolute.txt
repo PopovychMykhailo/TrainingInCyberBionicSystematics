@@ -1,0 +1,13 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\netcoreapp3.1\Thread_Abort.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\netcoreapp3.1\Thread_Abort.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\netcoreapp3.1\Thread_Abort.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\netcoreapp3.1\Thread_Abort.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\netcoreapp3.1\Thread_Abort.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\bin\Debug\netcoreapp3.1\Thread_Abort.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\netcoreapp3.1\Thread_Abort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\netcoreapp3.1\Thread_Abort.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\netcoreapp3.1\Thread_Abort.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\netcoreapp3.1\Thread_Abort.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\netcoreapp3.1\Thread_Abort.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\netcoreapp3.1\Thread_Abort.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\002_ThreadAbort\Thread_Abort\obj\Debug\netcoreapp3.1\Thread_Abort.genruntimeconfig.cache

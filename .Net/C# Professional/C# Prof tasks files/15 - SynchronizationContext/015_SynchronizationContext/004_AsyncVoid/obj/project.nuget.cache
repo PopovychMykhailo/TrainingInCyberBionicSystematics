@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWyjh+yEuzl4DkoBTIJxtkXAXNBx8UWGzGc9E2U7PBgpv1tmbqAzzVPq7COh0vIz2BUeEH30GghHVED3IzAtfg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\15 - SynchronizationContext\\015_SynchronizationContext\\004_AsyncVoid\\004_AsyncVoid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

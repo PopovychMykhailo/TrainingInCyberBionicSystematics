@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsMvpbWDvxbYQVdK/6V5J0XbGG5XjAN4VwlNGvfZta3k//9R4D+CHeNWli6hWAcieVEgSPpFLtFXwl0pniNAYA==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\15 - SynchronizationContext\\015_SynchronizationContext\\001_ClickerSync\\001_ClickerSync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\bin\Debug\netcoreapp3.1\Monitor.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\11 - Потоки\008_monitor\Monitor\obj\Debug\netcoreapp3.1\Monitor.genruntimeconfig.cache

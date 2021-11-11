@@ -1,0 +1,16 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\bin\Debug\net5.0\Homework_task2.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\bin\Debug\net5.0\Homework_task2.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\bin\Debug\net5.0\Homework_task2.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\bin\Debug\net5.0\Homework_task2.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\bin\Debug\net5.0\Homework_task2.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\bin\Debug\net5.0\ref\Homework_task2.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\bin\Debug\net5.0\Homework_task2.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\Homework_task2.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\Homework_task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\Homework_task2.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\Homework_task2.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\Homework_task2.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\Homework_task2.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\ref\Homework_task2.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\Homework_task2.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\001_UserCollections\Homework_task2\obj\Debug\net5.0\Homework_task2.genruntimeconfig.cache

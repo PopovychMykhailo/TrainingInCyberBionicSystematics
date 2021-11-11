@@ -1,0 +1,14 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\bin\Debug\netcoreapp3.1\003_XML.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\bin\Debug\netcoreapp3.1\books.xml
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\bin\Debug\netcoreapp3.1\003_XML.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\bin\Debug\netcoreapp3.1\003_XML.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\bin\Debug\netcoreapp3.1\003_XML.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\bin\Debug\netcoreapp3.1\003_XML.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\bin\Debug\netcoreapp3.1\003_XML.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\obj\Debug\netcoreapp3.1\003_XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\obj\Debug\netcoreapp3.1\003_XML.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\obj\Debug\netcoreapp3.1\003_XML.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\obj\Debug\netcoreapp3.1\003_XML.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\obj\Debug\netcoreapp3.1\003_XML.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\obj\Debug\netcoreapp3.1\003_XML.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\003_XML\obj\Debug\netcoreapp3.1\003_XML.genruntimeconfig.cache

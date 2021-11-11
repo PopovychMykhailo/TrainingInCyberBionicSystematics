@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MyContacts>
+  <Contact Name="Person1" TelephoneNumber="+38 097 123 45 01">  </Contact>
+  <Contact Name="Person2" TelephoneNumber="+38 097 123 45 02">  </Contact>
+  <Contact Name="Person3" TelephoneNumber="+38 097 123 45 03">
+    <ContactIn Name="PersonIn3" TelephoneNumber="+38 097 123 03 01" City="Kyiv"></ContactIn>
+  </Contact>
+  <ContactNew Name="Person3" TelephoneNumber="+38 097 123 45 10" City="Kyiv"></ContactNew>
+  <Contact Name="Person4" TelephoneNumber="+38 097 123 45 04">  </Contact>
+</MyContacts>

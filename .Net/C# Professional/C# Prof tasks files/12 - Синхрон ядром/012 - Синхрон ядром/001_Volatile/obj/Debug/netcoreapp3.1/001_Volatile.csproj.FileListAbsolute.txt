@@ -1,0 +1,1 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\12 - Синхрон. при пом. объек. ядра\012 - Синхрон при помощи объектов ядра\001_Volatile\obj\Debug\netcoreapp3.1\001_Volatile.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\002_LateBinding_Object\\002_LateBinding_Object.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\000_ICar\\000_ICar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\000_ICar\\000_ICar.csproj",
+        "projectName": "000_ICar",
+        "projectPath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\000_ICar\\000_ICar.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\000_ICar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\001_CarLibrary\\001_CarLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\001_CarLibrary\\001_CarLibrary.csproj",
+        "projectName": "001_CarLibrary",
+        "projectPath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\001_CarLibrary\\001_CarLibrary.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\001_CarLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\000_ICar\\000_ICar.csproj": {
+                "projectPath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\000_ICar\\000_ICar.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\002_LateBinding_Object\\002_LateBinding_Object.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\002_LateBinding_Object\\002_LateBinding_Object.csproj",
+        "projectName": "002_LateBinding_Object",
+        "projectPath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\002_LateBinding_Object\\002_LateBinding_Object.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\002_LateBinding_Object\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\001_CarLibrary\\001_CarLibrary.csproj": {
+                "projectPath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\06 - Рефлексия\\003 - LateBinding\\001_CarLibrary\\001_CarLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

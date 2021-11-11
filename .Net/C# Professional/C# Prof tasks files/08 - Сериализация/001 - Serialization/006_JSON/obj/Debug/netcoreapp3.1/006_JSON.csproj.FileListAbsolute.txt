@@ -1,0 +1,16 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\bin\Debug\netcoreapp3.1\006_JSON.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\bin\Debug\netcoreapp3.1\006_JSON.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\bin\Debug\netcoreapp3.1\006_JSON.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\bin\Debug\netcoreapp3.1\006_JSON.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\bin\Debug\netcoreapp3.1\006_JSON.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\bin\Debug\netcoreapp3.1\006_JSON.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.csproj.CopyComplete
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\006_JSON\obj\Debug\netcoreapp3.1\006_JSON.genruntimeconfig.cache

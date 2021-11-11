@@ -1,0 +1,16 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\bin\Debug\netcoreapp3.1\Reflector.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\bin\Debug\netcoreapp3.1\Reflector.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\bin\Debug\netcoreapp3.1\Reflector.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\bin\Debug\netcoreapp3.1\Reflector.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\bin\Debug\netcoreapp3.1\Reflector.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\bin\Debug\netcoreapp3.1\Reflector.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.Form1.resources
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.csproj.GenerateResource.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\06 - Рефлексия\004 - Reflector\Reflector\obj\Debug\netcoreapp3.1\Reflector.genruntimeconfig.cache

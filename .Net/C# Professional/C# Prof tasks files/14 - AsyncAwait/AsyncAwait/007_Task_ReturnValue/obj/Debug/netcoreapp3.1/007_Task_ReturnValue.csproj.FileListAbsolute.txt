@@ -1,0 +1,13 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\bin\Debug\netcoreapp3.1\007_Task_ReturnValue.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\bin\Debug\netcoreapp3.1\007_Task_ReturnValue.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\bin\Debug\netcoreapp3.1\007_Task_ReturnValue.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\bin\Debug\netcoreapp3.1\007_Task_ReturnValue.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\bin\Debug\netcoreapp3.1\007_Task_ReturnValue.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\bin\Debug\netcoreapp3.1\007_Task_ReturnValue.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\obj\Debug\netcoreapp3.1\007_Task_ReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\obj\Debug\netcoreapp3.1\007_Task_ReturnValue.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\obj\Debug\netcoreapp3.1\007_Task_ReturnValue.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\obj\Debug\netcoreapp3.1\007_Task_ReturnValue.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\obj\Debug\netcoreapp3.1\007_Task_ReturnValue.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\obj\Debug\netcoreapp3.1\007_Task_ReturnValue.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\14 - AsyncAwait\AsyncAwait\007_Task_ReturnValue\obj\Debug\netcoreapp3.1\007_Task_ReturnValue.genruntimeconfig.cache

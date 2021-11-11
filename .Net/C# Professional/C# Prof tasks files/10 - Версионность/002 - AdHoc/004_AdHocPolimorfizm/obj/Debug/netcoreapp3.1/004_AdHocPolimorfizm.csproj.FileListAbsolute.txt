@@ -1,0 +1,14 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\bin\Debug\netcoreapp3.1\004_AdHocPolimorfizm.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\bin\Debug\netcoreapp3.1\004_AdHocPolimorfizm.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\bin\Debug\netcoreapp3.1\004_AdHocPolimorfizm.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\bin\Debug\netcoreapp3.1\004_AdHocPolimorfizm.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\bin\Debug\netcoreapp3.1\004_AdHocPolimorfizm.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\bin\Debug\netcoreapp3.1\004_AdHocPolimorfizm.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\obj\Debug\netcoreapp3.1\004_AdHocPolimorfizm.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\obj\Debug\netcoreapp3.1\004_AdHocPolimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\obj\Debug\netcoreapp3.1\004_AdHocPolimorfizm.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\obj\Debug\netcoreapp3.1\004_AdHocPolimorfizm.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\obj\Debug\netcoreapp3.1\004_AdHocPolimorfizm.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\obj\Debug\netcoreapp3.1\004_AdHocPolimorfizm.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\obj\Debug\netcoreapp3.1\004_AdHocPolimorfizm.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\10 - Версионность\002 - AdHoc\004_AdHocPolimorfizm\obj\Debug\netcoreapp3.1\004_AdHocPolimorfizm.genruntimeconfig.cache

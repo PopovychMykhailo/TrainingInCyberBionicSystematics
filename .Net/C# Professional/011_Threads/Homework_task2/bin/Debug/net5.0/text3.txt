@@ -1,0 +1,2 @@
+Text111 from file1
+Text222 from file2

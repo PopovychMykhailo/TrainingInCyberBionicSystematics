@@ -1,0 +1,14 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\bin\Debug\netcoreapp3.1\002_Binary.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\bin\Debug\netcoreapp3.1\002_Binary.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\bin\Debug\netcoreapp3.1\002_Binary.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\bin\Debug\netcoreapp3.1\002_Binary.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\bin\Debug\netcoreapp3.1\002_Binary.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\bin\Debug\netcoreapp3.1\002_Binary.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\obj\Debug\netcoreapp3.1\002_Binary.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\obj\Debug\netcoreapp3.1\002_Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\obj\Debug\netcoreapp3.1\002_Binary.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\obj\Debug\netcoreapp3.1\002_Binary.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\obj\Debug\netcoreapp3.1\002_Binary.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\obj\Debug\netcoreapp3.1\002_Binary.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\obj\Debug\netcoreapp3.1\002_Binary.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\08 - Сериализация\001 - Serialization\002_Binary\obj\Debug\netcoreapp3.1\002_Binary.genruntimeconfig.cache

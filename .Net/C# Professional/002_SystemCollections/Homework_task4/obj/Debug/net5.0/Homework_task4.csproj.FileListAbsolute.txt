@@ -1,0 +1,16 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\bin\Debug\net5.0\Homework_task4.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\bin\Debug\net5.0\Homework_task4.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\bin\Debug\net5.0\Homework_task4.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\bin\Debug\net5.0\Homework_task4.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\bin\Debug\net5.0\Homework_task4.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\bin\Debug\net5.0\ref\Homework_task4.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\bin\Debug\net5.0\Homework_task4.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\Homework_task4.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\Homework_task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\Homework_task4.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\Homework_task4.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\Homework_task4.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\Homework_task4.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\ref\Homework_task4.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\Homework_task4.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\002_SystemCollections\Homework_task4\obj\Debug\net5.0\Homework_task4.genruntimeconfig.cache

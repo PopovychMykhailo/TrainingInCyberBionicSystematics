@@ -1,0 +1,15 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\bin\Debug\netcoreapp3.1\002_XMLTextReader.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\bin\Debug\netcoreapp3.1\books.xml
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\bin\Debug\netcoreapp3.1\002_XMLTextReader.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\bin\Debug\netcoreapp3.1\002_XMLTextReader.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\bin\Debug\netcoreapp3.1\002_XMLTextReader.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\bin\Debug\netcoreapp3.1\002_XMLTextReader.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\bin\Debug\netcoreapp3.1\002_XMLTextReader.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\obj\Debug\netcoreapp3.1\002_XMLTextReader.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\obj\Debug\netcoreapp3.1\002_XMLTextReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\obj\Debug\netcoreapp3.1\002_XMLTextReader.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\obj\Debug\netcoreapp3.1\002_XMLTextReader.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\obj\Debug\netcoreapp3.1\002_XMLTextReader.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\obj\Debug\netcoreapp3.1\002_XMLTextReader.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\obj\Debug\netcoreapp3.1\002_XMLTextReader.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\05 - XML\001 - XML\002_XMLTextReader\obj\Debug\netcoreapp3.1\002_XMLTextReader.genruntimeconfig.cache

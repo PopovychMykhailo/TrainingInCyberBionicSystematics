@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k90VQkGr06WQJGHMaYcPZCHZnoWEFOrxKRK+fpKE6SGlwW7usyx9NWv2csR4mcpDMIDszrlfWjRQKfitq6wvCg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\15 - SynchronizationContext\\015_SynchronizationContext\\005_AsyncLambda\\005_AsyncVoidLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

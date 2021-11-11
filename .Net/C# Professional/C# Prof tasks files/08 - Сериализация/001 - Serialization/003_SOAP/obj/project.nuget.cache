@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T4Zph+jcA2+dZcD2kiMwSCGrVX86RyaQ46vnRgWwoSXb9jd8bdyOMj7dYm48B2AysaF59BoJPdJRkQ5hmuukrg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\C# Prof tasks files\\08 - Сериализация\\001 - Serialization\\003_SOAP\\003_SOAP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\soapformatter\\1.0.11\\soapformatter.1.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

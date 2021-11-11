@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c18a5d6d-525b-4f5c-b55b-eb3976a1111a": {
+      "ProjectGuid": "c18a5d6d-525b-4f5c-b55b-eb3976a1111a",
+      "DisplayName": "Classwork_task1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "229347ac-dc25-4776-9d6d-a4053531aca4": {
+      "ProjectGuid": "229347ac-dc25-4776-9d6d-a4053531aca4",
+      "DisplayName": "Homework_task2",
+      "ColorIndex": 1
+    },
+    "35da2776-e405-4b2e-bd26-ac6250710793": {
+      "ProjectGuid": "35da2776-e405-4b2e-bd26-ac6250710793",
+      "DisplayName": "Homework_task3",
+      "ColorIndex": 2
+    },
+    "3ccad285-dab7-493d-8232-ef950c10a542": {
+      "ProjectGuid": "3ccad285-dab7-493d-8232-ef950c10a542",
+      "DisplayName": "Homework_task4",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

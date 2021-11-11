@@ -1,0 +1,1 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\12 - Синхрон. при пом. объек. ядра\012 - Синхрон при помощи объектов ядра\007_SemaphoreSlim\obj\Debug\netcoreapp3.1\007_SemaphoreSlim.GeneratedMSBuildEditorConfig.editorconfig

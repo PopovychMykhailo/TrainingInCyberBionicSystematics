@@ -1,0 +1,14 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\bin\Debug\netcoreapp3.1\011_TPL_Return.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\bin\Debug\netcoreapp3.1\011_TPL_Return.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\bin\Debug\netcoreapp3.1\011_TPL_Return.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\bin\Debug\netcoreapp3.1\011_TPL_Return.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\bin\Debug\netcoreapp3.1\011_TPL_Return.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\bin\Debug\netcoreapp3.1\011_TPL_Return.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\obj\Debug\netcoreapp3.1\011_TPL_Return.csproj.AssemblyReference.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\obj\Debug\netcoreapp3.1\011_TPL_Return.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\obj\Debug\netcoreapp3.1\011_TPL_Return.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\obj\Debug\netcoreapp3.1\011_TPL_Return.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\obj\Debug\netcoreapp3.1\011_TPL_Return.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\obj\Debug\netcoreapp3.1\011_TPL_Return.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\obj\Debug\netcoreapp3.1\011_TPL_Return.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\011_TPL_Return\obj\Debug\netcoreapp3.1\011_TPL_Return.genruntimeconfig.cache

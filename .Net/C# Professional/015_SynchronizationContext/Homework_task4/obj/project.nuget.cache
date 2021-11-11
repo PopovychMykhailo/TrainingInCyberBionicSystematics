@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W3Ni+Cxfqrr25LxnTj9caKIOxn177QTPqtkTIodpeij1kGYiHvuOAw1lpGbp4WuBUfjMVwNsijZl56NelOOS/g==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Programming\\TrainingInCyberBionicSystematics\\.Net\\C# Professional\\015_SynchronizationContext\\Homework_task4\\Homework_task4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

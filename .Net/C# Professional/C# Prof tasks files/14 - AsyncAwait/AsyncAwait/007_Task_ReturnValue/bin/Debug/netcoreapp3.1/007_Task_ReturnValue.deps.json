@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "007_Task_ReturnValue/1.0.0": {
+        "runtime": {
+          "007_Task_ReturnValue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "007_Task_ReturnValue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\bin\Debug\netcoreapp3.1\005_TPL_AsyncState.exe
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\bin\Debug\netcoreapp3.1\005_TPL_AsyncState.deps.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\bin\Debug\netcoreapp3.1\005_TPL_AsyncState.runtimeconfig.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\bin\Debug\netcoreapp3.1\005_TPL_AsyncState.runtimeconfig.dev.json
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\bin\Debug\netcoreapp3.1\005_TPL_AsyncState.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\bin\Debug\netcoreapp3.1\005_TPL_AsyncState.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\obj\Debug\netcoreapp3.1\005_TPL_AsyncState.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\obj\Debug\netcoreapp3.1\005_TPL_AsyncState.AssemblyInfoInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\obj\Debug\netcoreapp3.1\005_TPL_AsyncState.AssemblyInfo.cs
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\obj\Debug\netcoreapp3.1\005_TPL_AsyncState.csproj.CoreCompileInputs.cache
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\obj\Debug\netcoreapp3.1\005_TPL_AsyncState.dll
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\obj\Debug\netcoreapp3.1\005_TPL_AsyncState.pdb
+D:\Learning\Programming\TrainingInCyberBionicSystematics\.Net\C# Professional\C# Prof tasks files\13 - TPL\001 - TPL\005_TPL_AsyncState\obj\Debug\netcoreapp3.1\005_TPL_AsyncState.genruntimeconfig.cache
