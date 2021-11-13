@@ -1,0 +1,5 @@
+-- Самостоятельная работа:
+-- 1. Создайте БД ShopDB
+-- 2. Создайте таблицу Employees (смотрите 003_ClassWork_CREATE_TABLE.jpg).
+-- 3. Допишите таблицы и задайте связи заданые на картинке 003_ClassWork_Constraints.jpg
+-- 4. Удалите таблицы: Employees, Customers, Orders.

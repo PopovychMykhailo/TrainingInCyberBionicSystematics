@@ -1,0 +1,11 @@
+Name						City		Capacity	Surface
+Philippe-Chatrier Court		Paris		14840		Clay
+Suzanne-Lenglen Court 		Paris		10068		Clay
+Rod Laver Arena				Melbourne 	14820		Hard
+Margaret Court Arena		Melbourne 	7500		Hard
+Arthur Ashe Stadium			New York	23771		Hard
+Louis Armstrong Stadium		New York	14000		Hard
+Grandstand					New York	8125		Hard
+Centre Court				London		15916		Grass
+No. 1 Court					London		11360		Grass
+No. 2 Court					London		4000		Grass

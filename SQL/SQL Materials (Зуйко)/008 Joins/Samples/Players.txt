@@ -1,0 +1,21 @@
+Rank	Name					Country			BirthDate	BirthPlace			Residence		Weight	Height
+3		Stan Wawrinka			Switzerland		1985.03.28	Switzerland			Switzerland		81KG	183CM
+9		Dominic Thiem			Austria			1993.09.03	Austria				Austria			82KG	185CM
+2		Novak Djokovic			Serbia			1987.05.22	Serbia				Monaco			75KG	188CM
+1		Andy Murray				GBR				1987.05.15	Scotland			England			84KG	191CM
+22		Richard Gasquet			France			1986.06.18	France				Switzerland		75KG	185CM
+13		Tomas Berdych			Czech Republic	1985.09.17	Czech Republic		Monaco			91KG	196CM
+24		Albert Ramos-Vinolas	Spain			1988.01.17	Spain				Spain			80KG	188CM
+14		David Goffin			Belgium			1990.12.07	Belgium				Monaco			68KG	180CM
+4		Roger Federer			Switzerland		1981.08.08	Switzerland			Switzerland		85KG	185CM
+5		Rafael Nadal			Spain			1986.06.03	Spain				Spain			85KG	185CM
+12		Grigor Dimitrov			Bulgaria		1991.05.16	Bulgaria			Monaco			80KG	191CM
+6		Milos Raonic	 		Canada			1990.12.27	Montenegro			Monaco			98KG	196CM
+10		Jo-Wilfried Tsonga		France			1985.04.17	France				Switzerland		91KG	188CM
+20		Mischa Zverev			Germany			1987.08.22	Russia				Monaco			81KG	191CM
+11		Gael Monfils			France			1986.09.01	France				Switzerland		80KG	193CM
+7		Kei Nishikori			Japan			1989.12.29	Japan				USA				75KG	178CM
+35		Juan Martin del Potro	Argentina		1988.09.23	Argentina			Argentina		97KG	198CM
+17		Lucas Pouille			France			1994.02.23	France				U.A.E.			81KG	185CM
+8		Marin Cilic				Croatia			1988.09.28	Bosnia-Herzegovina	Monaco			89KG	198CM
+25		Sam Querrey				USA				1987.10.07	USA					USA				95KG	198CM

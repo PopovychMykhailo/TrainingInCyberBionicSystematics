@@ -1,0 +1,37 @@
+Roland Garros							
+Court						Player1				Player2					Date		Time	Round			Aces	
+																											p1	p2
+Philippe-Chatrier Court		Novak Djokovic		Andy Murray				05.06.2016	3:00PM	FINALS			4	5
+Suzanne-Lenglen Court 		Novak Djokovic		Dominic Thiem			03.06.2016	3:00PM	SEMI-FINALS		2	2
+Philippe-Chatrier Court		Andy Murray			Stan Wawrinka			03.06.2016	3:00PM	SEMI-FINALS		3	1
+Philippe-Chatrier Court		Novak Djokovic		Tomas Berdych			02.06.2016	1:00PM	QUARTER-FINALS	0	4
+Philippe-Chatrier Court		Andy Murray			Richard Gasquet			01.06.2016	2:00PM	QUARTER-FINALS	11	2
+Suzanne-Lenglen Court 		Stan Wawrinka		Albert Ramos-Vinolas	01.06.2016	2:00PM	QUARTER-FINALS	8	2
+Suzanne-Lenglen Court 		Dominic Thiem		David Goffin			02.06.2016	1:00PM	QUARTER-FINALS	2	3
+							
+Australian Open							
+Rod Laver Arena				Roger Federer		Rafael Nadal			29.01.2017	7:30PM	FINALS			20	4
+Rod Laver Arena				Roger Federer		Stan Wawrinka			26.01.2017	7:30PM	SEMI-FINALS		11	10
+Rod Laver Arena				Rafael Nadal		Grigor Dimitrov			27.01.2017	7:30PM	SEMI-FINALS		8	22
+Rod Laver Arena				Rafael Nadal		Milos Raonic			25.01.2017	7:30PM	QUARTER-FINALS	5	14
+Rod Laver Arena				Stan Wawrinka		Jo-Wilfried Tsonga		24.01.2017	3:30PM	QUARTER-FINALS	4	7
+Rod Laver Arena				Grigor Dimitrov		David Goffin			25.01.2017	3:30PM	QUARTER-FINALS	9	7
+Rod Laver Arena				Roger Federer		Mischa Zverev			24.01.2017	7:00PM	QUARTER-FINALS	9	5
+							                                                            
+US Open							                                                        
+Arthur Ashe Stadium			Stan Wawrinka		Novak Djokovic			11.09.2016	4:00PM	FINALS			9	5
+Arthur Ashe Stadium			Novak Djokovic		Gael Monfils			09.09.2016	3:00PM	SEMI-FINALS		2	12
+Arthur Ashe Stadium			Stan Wawrinka		Kei Nishikori			09.09.2016	4:30PM	SEMI-FINALS		10	3
+Arthur Ashe Stadium			Novak Djokovic		Jo-Wilfried Tsonga		06.09.2016	8:00PM	QUARTER-FINALS	1	3
+Arthur Ashe Stadium			Kei Nishikori		Andy Murray				07.09.2016	1:00PM	QUARTER-FINALS	1	8
+Arthur Ashe Stadium			Stan Wawrinka		Juan Martin del Potro	07.09.2016	8:00PM	QUARTER-FINALS	10	3
+Arthur Ashe Stadium			Gael Monfils		Lucas Pouille			06.09.2016	1:00PM	QUARTER-FINALS	12	5
+							
+Wimbledon							
+Centre Court				Andy Murray			Milos Raonic			10.07.2016	2:00PM	FINALS			7	8
+Centre Court				Andy Murray			Tomas Berdych			08.07.2016	3:00PM	SEMI-FINALS		7	5
+Centre Court				Milos Raonic		Roger Federer			08.07.2016	1:00PM	SEMI-FINALS		23	16
+Centre Court				Andy Murray			Jo-Wilfried Tsonga		06.07.2016	3:00PM	QUARTER-FINALS	14	15
+Centre Court				Roger Federer		Marin Cilic				06.07.2016	1:00PM	QUARTER-FINALS	27	23
+No. 1 Court					Milos Raonic		Sam Querrey				06.07.2016	1:00PM	QUARTER-FINALS	13	15
+No. 1 Court					Tomas Berdych		Lucas Pouille			06.07.2016	3:00PM	QUARTER-FINALS	10	9
