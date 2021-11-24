@@ -1,0 +1,11 @@
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.deps.json
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.runtimeconfig.json
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.runtimeconfig.dev.json
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.dll
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.csprojResolveAssemblyReference.cache
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.csproj.CoreCompileInputs.cache
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.AssemblyInfoInputs.cache
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.AssemblyInfo.cs
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\bin\Debug\netcoreapp2.0\EF_Core.pdb
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.dll
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core\obj\Debug\netcoreapp2.0\EF_Core.pdb

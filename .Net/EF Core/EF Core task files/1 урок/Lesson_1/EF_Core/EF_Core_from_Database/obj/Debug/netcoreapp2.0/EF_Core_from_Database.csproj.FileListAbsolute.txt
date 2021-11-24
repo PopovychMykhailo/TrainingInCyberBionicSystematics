@@ -1,0 +1,11 @@
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\bin\Debug\netcoreapp2.0\EF_Core_from_Database.deps.json
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\bin\Debug\netcoreapp2.0\EF_Core_from_Database.runtimeconfig.json
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\bin\Debug\netcoreapp2.0\EF_Core_from_Database.runtimeconfig.dev.json
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\bin\Debug\netcoreapp2.0\EF_Core_from_Database.dll
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\obj\Debug\netcoreapp2.0\EF_Core_from_Database.csproj.CoreCompileInputs.cache
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\obj\Debug\netcoreapp2.0\EF_Core_from_Database.AssemblyInfoInputs.cache
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\obj\Debug\netcoreapp2.0\EF_Core_from_Database.AssemblyInfo.cs
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\obj\Debug\netcoreapp2.0\EF_Core_from_Database.csprojResolveAssemblyReference.cache
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\bin\Debug\netcoreapp2.0\EF_Core_from_Database.pdb
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\obj\Debug\netcoreapp2.0\EF_Core_from_Database.dll
+C:\Users\VKryvoruchko\Desktop\Lesson_1\EF_Core\EF_Core_from_Database\obj\Debug\netcoreapp2.0\EF_Core_from_Database.pdb

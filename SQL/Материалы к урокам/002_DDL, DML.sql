@@ -175,6 +175,8 @@ DELETE Students
 OUTPUT deleted.Id, deleted.LName
 	WHERE Id = 1
 	
+SELECT * FROM Students
+
 UPDATE Students
 	SET Phone = '(012)3456789'
 	OUTPUT inserted.Id, inserted.LName, inserted.Phone AS [Новый телефон], deleted.Phone "Старый телефон"
@@ -187,6 +189,6 @@ OUTPUT deleted.Id, deleted.LName, deleted.Phone INTO StudentPhones
 DECLARE @deleteTable table (Id int, LastName nvarchar(20));	
 
 DELETE Students
-OUTPUT deleted.Id, deleted.LName INTO @deleteTable
+OUTPUT deleted.Id, deleted.Customer INTO @deleteTable
 
 SELECT * FROM @deleteTable

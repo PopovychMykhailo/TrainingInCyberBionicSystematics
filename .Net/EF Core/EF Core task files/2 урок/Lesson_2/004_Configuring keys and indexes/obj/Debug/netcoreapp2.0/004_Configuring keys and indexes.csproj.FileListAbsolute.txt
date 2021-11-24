@@ -1,0 +1,8 @@
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\004_Configuring keys and indexes\bin\Debug\netcoreapp2.0\004_Configuring keys and indexes.deps.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\004_Configuring keys and indexes\bin\Debug\netcoreapp2.0\004_Configuring keys and indexes.runtimeconfig.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\004_Configuring keys and indexes\bin\Debug\netcoreapp2.0\004_Configuring keys and indexes.runtimeconfig.dev.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\004_Configuring keys and indexes\bin\Debug\netcoreapp2.0\004_Configuring keys and indexes.dll
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\004_Configuring keys and indexes\obj\Debug\netcoreapp2.0\004_Configuring keys and indexes.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\004_Configuring keys and indexes\obj\Debug\netcoreapp2.0\004_Configuring keys and indexes.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\004_Configuring keys and indexes\obj\Debug\netcoreapp2.0\004_Configuring keys and indexes.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\004_Configuring keys and indexes\obj\Debug\netcoreapp2.0\004_Configuring keys and indexes.AssemblyInfo.cs

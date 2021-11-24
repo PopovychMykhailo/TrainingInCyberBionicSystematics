@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b73f3d2-68c9-4dfc-adc4-49ca5a43efc2": {
+      "ProjectGuid": "3b73f3d2-68c9-4dfc-adc4-49ca5a43efc2",
+      "DisplayName": "Classwork_task1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "004150fa-a1da-419d-b3f3-5d35198bb8d2": {
+      "ProjectGuid": "004150fa-a1da-419d-b3f3-5d35198bb8d2",
+      "DisplayName": "Classwork_task2",
+      "ColorIndex": 1
+    },
+    "b784d8ed-987e-4027-86e5-e79c88bade87": {
+      "ProjectGuid": "b784d8ed-987e-4027-86e5-e79c88bade87",
+      "DisplayName": "Classwork_task2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

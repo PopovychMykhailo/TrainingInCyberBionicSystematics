@@ -1,0 +1,8 @@
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\006_Configuring Indexes\bin\Debug\netcoreapp2.0\006_Configuring Indexes.deps.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\006_Configuring Indexes\bin\Debug\netcoreapp2.0\006_Configuring Indexes.runtimeconfig.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\006_Configuring Indexes\bin\Debug\netcoreapp2.0\006_Configuring Indexes.runtimeconfig.dev.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\006_Configuring Indexes\bin\Debug\netcoreapp2.0\006_Configuring Indexes.dll
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\006_Configuring Indexes\obj\Debug\netcoreapp2.0\006_Configuring Indexes.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\006_Configuring Indexes\obj\Debug\netcoreapp2.0\006_Configuring Indexes.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\006_Configuring Indexes\obj\Debug\netcoreapp2.0\006_Configuring Indexes.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\006_Configuring Indexes\obj\Debug\netcoreapp2.0\006_Configuring Indexes.AssemblyInfo.cs

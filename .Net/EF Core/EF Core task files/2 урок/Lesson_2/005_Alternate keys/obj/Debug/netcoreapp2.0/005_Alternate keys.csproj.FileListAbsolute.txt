@@ -1,0 +1,7 @@
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\005_Alternate keys\bin\Debug\netcoreapp2.0\005_Alternate keys.deps.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\005_Alternate keys\bin\Debug\netcoreapp2.0\005_Alternate keys.runtimeconfig.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\005_Alternate keys\bin\Debug\netcoreapp2.0\005_Alternate keys.runtimeconfig.dev.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\005_Alternate keys\bin\Debug\netcoreapp2.0\005_Alternate keys.dll
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\005_Alternate keys\obj\Debug\netcoreapp2.0\005_Alternate keys.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\005_Alternate keys\obj\Debug\netcoreapp2.0\005_Alternate keys.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\005_Alternate keys\obj\Debug\netcoreapp2.0\005_Alternate keys.AssemblyInfo.cs

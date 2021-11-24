@@ -140,3 +140,4 @@ GO
 SELECT * FROM dbo.fnContactSearch('Berry'); -- выводим всю информацию о сторудниках часть фамилии или фамилия которых 'Berry' из таблицы сформированой при помощи fnContactSearch();
 
 SELECT * FROM dbo.fnContactSearch('Ber'); -- выводим всю информацию о сторудниках часть фамилии или фамилия которых 'Ber' из таблицы сформированой при помощи fnContactSearch();
+

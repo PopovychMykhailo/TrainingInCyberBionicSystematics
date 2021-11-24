@@ -1,0 +1,8 @@
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\002_Model Properties\bin\Debug\netcoreapp2.0\002_Model Properties.deps.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\002_Model Properties\bin\Debug\netcoreapp2.0\002_Model Properties.runtimeconfig.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\002_Model Properties\bin\Debug\netcoreapp2.0\002_Model Properties.runtimeconfig.dev.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\002_Model Properties\bin\Debug\netcoreapp2.0\002_Model Properties.dll
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\002_Model Properties\obj\Debug\netcoreapp2.0\002_Model Properties.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\002_Model Properties\obj\Debug\netcoreapp2.0\002_Model Properties.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\002_Model Properties\obj\Debug\netcoreapp2.0\002_Model Properties.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\002_Model Properties\obj\Debug\netcoreapp2.0\002_Model Properties.AssemblyInfo.cs

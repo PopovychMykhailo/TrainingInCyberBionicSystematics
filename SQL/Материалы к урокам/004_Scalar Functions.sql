@@ -122,9 +122,9 @@ SELECT 10/3,
 SELECT CONVERT(datetime, '20170101 13:45')
 
 SELECT   
-   GETDATE() AS UnconvertedDateTime,  
-   CAST(GETDATE() AS nvarchar(30)) AS UsingCast,  
-   CONVERT(nvarchar(30), GETDATE(), 126) AS UsingConvertTo_ISO8601  ;  
+   GETDATE() AS [UnconvertedDateTime],  
+   CAST(GETDATE() AS nvarchar(20)) AS [UsingCast],  
+   CONVERT(nvarchar(30), GETDATE(), 126) AS [UsingConvertTo_ISO8601];  
 GO  
 
 --PARSE

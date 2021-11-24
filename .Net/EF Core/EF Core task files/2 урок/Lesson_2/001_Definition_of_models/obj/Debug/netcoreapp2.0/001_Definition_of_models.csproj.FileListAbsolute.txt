@@ -1,0 +1,8 @@
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\001_Definition_of_models\bin\Debug\netcoreapp2.0\001_Definition_of_models.deps.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\001_Definition_of_models\bin\Debug\netcoreapp2.0\001_Definition_of_models.runtimeconfig.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\001_Definition_of_models\bin\Debug\netcoreapp2.0\001_Definition_of_models.runtimeconfig.dev.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\001_Definition_of_models\bin\Debug\netcoreapp2.0\001_Definition_of_models.dll
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\001_Definition_of_models\obj\Debug\netcoreapp2.0\001_Definition_of_models.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\001_Definition_of_models\obj\Debug\netcoreapp2.0\001_Definition_of_models.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\001_Definition_of_models\obj\Debug\netcoreapp2.0\001_Definition_of_models.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\001_Definition_of_models\obj\Debug\netcoreapp2.0\001_Definition_of_models.AssemblyInfo.cs

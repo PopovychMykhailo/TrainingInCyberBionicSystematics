@@ -1,0 +1,8 @@
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\003_Table and column mapping\bin\Debug\netcoreapp2.0\003_Table and column mapping.deps.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\003_Table and column mapping\bin\Debug\netcoreapp2.0\003_Table and column mapping.runtimeconfig.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\003_Table and column mapping\bin\Debug\netcoreapp2.0\003_Table and column mapping.runtimeconfig.dev.json
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\003_Table and column mapping\bin\Debug\netcoreapp2.0\003_Table and column mapping.dll
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\003_Table and column mapping\obj\Debug\netcoreapp2.0\003_Table and column mapping.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\003_Table and column mapping\obj\Debug\netcoreapp2.0\003_Table and column mapping.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\003_Table and column mapping\obj\Debug\netcoreapp2.0\003_Table and column mapping.AssemblyInfoInputs.cache
+C:\Users\Vitalii\Desktop\Entity Framework Core 2.0\2 Lesson\Lesson_2\003_Table and column mapping\obj\Debug\netcoreapp2.0\003_Table and column mapping.AssemblyInfo.cs
